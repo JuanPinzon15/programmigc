@@ -1,6 +1,14 @@
+/*******************
+ * FILENAME: program#6jp.c
 
+ * YOUR NAME: Juan Pinzón
+
+ * DESCRIPTION: This program prints the values of each data type in bytes
+
+*********************/
 #include <stdio.h>
 
+// Print the size of each data type in bytes
 int main() {
     printf("Size of int: %zu bytes\n", sizeof(int));
     printf("Size of short: %zu bytes\n", sizeof(short));
