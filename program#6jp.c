@@ -8,7 +8,7 @@
 *********************/
 #include <stdio.h>
 
-// Print the size of each data type in bytes
+// Print the values of each data type in bytes
 int main() {
     printf("Size of int: %zu bytes\n", sizeof(int));
     printf("Size of short: %zu bytes\n", sizeof(short));
