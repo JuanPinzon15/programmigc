@@ -3,8 +3,7 @@
 
  * YOUR NAME: Juan Pinzon
 
- * DESCRIPTION: This program asks the user to enter a value for x, calls the function to compute the value of the polynomial, and then displays the value returned by the function. Also there is a function that evaluates the polynomial.
-
+ * DESCRIPTION: This program ask the user to enter a value for x, then calls the function to compute the value of the polynomial, and then displays the value returned by the function.
 *********************/
 #include <stdio.h>
 
